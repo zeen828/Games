@@ -1,7 +1,7 @@
 ###系統
-建置在CentOS
-PHP 5.6
-CodeIgniter 3.1.0
+建置在CentOS<br/>
+PHP 5.6<br/>
+CodeIgniter 3.1.0<br/>
 
 ***
 
@@ -11,9 +11,9 @@ CodeIgniter 3.1.0
 ***
 
 ###懷舊倉庫番
-1.[倉庫番關卡參考](http://blog.xuite.net/laurated/game/52802979-%E5%80%89%E5%BA%AB%E7%95%AA-%E5%8F%B2%E4%B8%8A%E5%AE%8C%E6%95%B4%E7%89%88(%E6%94%BB%E7%95%A5))<br/>
-建立關卡陣列javascript
-直接編輯在applicationviews/games/sokobans/level_1.php(關卡1)
+[倉庫番關卡參考](http://blog.xuite.net/laurated/game/52802979-%E5%80%89%E5%BA%AB%E7%95%AA-%E5%8F%B2%E4%B8%8A%E5%AE%8C%E6%95%B4%E7%89%88(%E6%94%BB%E7%95%A5))<br/>
+建立關卡陣列javascript<br/>
+直接編輯在applicationviews/games/sokobans/level_1.php(關卡1)<br/>
 
 ###(1):編輯關卡地圖
 		//地圖資料
